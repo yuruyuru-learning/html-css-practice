@@ -194,6 +194,7 @@ nav {
 }
 
 .grid-item img {
+  width: 100%;
   transform: scale(1);
   -webkit-transition: all 0.5s;
   -o-transition: all 0.5s;
